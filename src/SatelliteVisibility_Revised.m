@@ -14,7 +14,7 @@ areaLabels = {'Forest Area', 'Urban Area', 'Non-Urban Area'};
 elevationMasks = [30, 25, 10]; % Degrees of minimum elevation angle for each area
 
 %% 3. Load Satellite Data
-semAlmanacFileName = "D:\\Ders\\Master\\Semester1\\Attitude and Navigation Systems\\SEM almanac\\almanac.sem.week0301.589824.txt";
+semAlmanacFileName = "AlmanacFileLocation\\almanacafilename.txt";
 
 %% 4. Initialize Variables to Store Results
 gdopValues = [];
